@@ -1,2 +1,0 @@
-# esmuse-js
-esmuse JavaScript
